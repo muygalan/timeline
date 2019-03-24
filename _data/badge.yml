@@ -1,0 +1,7 @@
+category:
+  - name: New
+    color: 3778ff
+  - name: Improvement
+    color: b26cee
+  - name: Fix
+    color: ff4772

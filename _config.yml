@@ -1,0 +1,21 @@
+title: Timeline – A Log of Life Events
+url: http://www.joshuagalan.com/timeline
+#logo: assets/img/logchimp.png
+teams: true # Show team members
+terminology: Changelog # By default we call this a changelog, but some might want to call it "release notes", or "changes" (Changelog, Release notes, Changes, Updates, News)
+
+# Build settings
+baseurl: /
+theme: logchimp
+permalink: /:title/
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .git
