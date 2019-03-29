@@ -9,9 +9,6 @@ baseurl: /
 theme: logchimp
 permalink: /:title/
 
-# Include
-include: _redirects
-
 # Exclude from processing.
 exclude:
   - Gemfile
