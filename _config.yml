@@ -10,7 +10,7 @@ theme: logchimp
 permalink: /:title/
 
 # Include
-include: _redirect
+include: _redirects
 
 # Exclude from processing.
 exclude:
